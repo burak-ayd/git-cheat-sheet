@@ -3,7 +3,7 @@
 
 ### Index
 * [Kurulum](#kurulum)
-* [Repo Oluşturma](#Repo-luşturma)
+* [Repo Oluşturma](#Repo-oluşturma)
 * [Branch Oluşturma](#Branch-oluşturma)
 * [Yerel Değişiklikler](#yerel-değişiklikler)
 * [Arama](#arama)
