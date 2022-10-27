@@ -3,8 +3,8 @@
 
 ### Index
 * [Kurulum](#kurulum)
-* [Repo Oluşturma](#Repo Oluşturma)
-* [Branch Oluşturma](#Branch Oluşturma)
+* [Repo Oluşturma](#Repo-luşturma)
+* [Branch Oluşturma](#Branch-oluşturma)
 * [Yerel Değişiklikler](#yerel-değişiklikler)
 * [Arama](#arama)
 * [Commit Geçmişi](#commit-geçmişi)
