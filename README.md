@@ -6,13 +6,9 @@
 * [Repo Oluşturma](#Repo-oluşturma)
 * [Branch Oluşturma](#Branch-oluşturma)
 * [Yerel Değişiklikler](#yerel-değişiklikler)
-* [Arama](#arama)
 * [Commit Geçmişi](#commit-geçmişi)
 * [Branches & Tags(Etiketler)](#branches--tags)
 * [Güncelleştirme & Yayınlama](#güncelleştirme--yayınlama)
-* [Merge(Birleştirme) & Rebase](#merge--rebase)
-* [Geri Alma](#geri-alma)
-* [Git Flow](#git-flow)
 
 <hr>
 
