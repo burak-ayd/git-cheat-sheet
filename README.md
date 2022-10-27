@@ -60,7 +60,7 @@ $ git clone repo_url
 ```
 $ git clone <dizin
 ```
-
+<hr>
 ## Branch Oluşturma
 
 ##### Yerel branch oluşturma:
